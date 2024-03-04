@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExportImportMemento.1>
+<VarMeta IMemento.internal.id="output"/>
+<VarMeta IMemento.internal.id="testSample7"/>
+<VarMeta IMemento.internal.id="testSample7"/>
+</ExportImportMemento.1>
